@@ -1,0 +1,1 @@
+{ "name": "mlb-sim-dashboard", "version": "1.0.0", "scripts": { "build": "react-scripts build" } }
